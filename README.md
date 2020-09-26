@@ -1,4 +1,8 @@
 # bio-p
+
+Progetto finale per l'esame di Bioinformatica, nel corso [laurea triennale in Scienze Informatiche](https://github.com/avivace/compsci).
+
+
 ## Input
 [Qui](https://github.com/GFA-spec) viene descritto il formato di file GFA che è utilizzato per rappresentare grafi di sequenziamento.
 Per questi file esiste la libreria [RGFA](https://github.com/ggonnella/RGFA).
